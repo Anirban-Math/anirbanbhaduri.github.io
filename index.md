@@ -3,6 +3,8 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am a fifth year Ph.D. student at University of South Carolina, Columbia, South Carolina, U.S.A. My Supervisor is Matthew Ballard. Before this, I have obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta, Kolkata, West Bengal, India.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+My research interest lies in the intersection of Algebraic Geometry, Noncommutative Algebra, Derived Categories, Homological Algebra, Representation Theory. More specifically, I like to answer questions coming from Noncommutative Algebraic Geometry or Derived Algebraic Geometry.
+
+My Email Id is anirbanbhaduri1905'at'gamil'dot'com.
