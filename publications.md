@@ -9,7 +9,7 @@ Here is a link to my [Arxiv](https://arxiv.org/search/math?searchtype=author&que
 
 **Preprint**
 
-*A note on generation and descent for derived categories of noncommutative schemes, with Souvik Dey and Pat Lank. [Arxiv Link](https://arxiv.org/abs/2312.02840)
+* A note on generation and descent for derived categories of noncommutative schemes, with Souvik Dey and Pat Lank. [Arxiv Link](https://arxiv.org/abs/2312.02840)
 
 **In Preperation**
 
