@@ -11,5 +11,7 @@ I have been a Graduate Teaching Assistant for Spring 2021 and Fall 2021 and a Gr
 * MATH 122: Business Calculus (Spring 2023)
 * MATH 111: College Algebra (Fall 2022)
 * MATH 141: Calculus I (Summer 2022)
+
+  
 ### Graduate Teaching Assistant:
 * MATH 141: Calculus I (Fall 2021, Summer 2021 and Spring 2021)
