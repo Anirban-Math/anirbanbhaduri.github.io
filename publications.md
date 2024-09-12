@@ -14,5 +14,6 @@ Here is a link to my [Arxiv](https://arxiv.org/search/math?searchtype=author&que
 **In Preperation**
 
 * Dimension Theory of Noncommutative Curves, with [Antonios-Alexandros Robotis](https://aarobotis.github.io/) and [Isaac Goldberg](https://math.cornell.edu/isaac-goldberg).
-* Orlov Spectra for Weighted Projective Stacks, with [Matthew Ballard](https://www.matthewrobertballard.com/)
+* Orlov Spectra for Weighted Projective Stacks, with [Matthew Ballard](https://www.matthewrobertballard.com/).
+* An Explicit Derived Mckay Correspondance For Some Complex Reflection Group of Rank Two, with [Yael Davidov](https://yaeldavidov.github.io/), [Eleanore Faber](https://imsc.uni-graz.at/faber/index.html), [Katrina Honigs](https://www.sfu.ca/~khonigs/), [Peter McDonald](https://www.math.utah.edu/~mcdonald/), [C. Eric Overton-Walker](https://locallyringed.space/), AND [Dylan Spence](https://dkspence952.github.io/). 
 
