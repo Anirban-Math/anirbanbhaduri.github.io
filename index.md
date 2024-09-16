@@ -8,4 +8,4 @@ I am a fifth year Ph.D. student at University of South Carolina, Columbia, South
 My research interest lies in the intersection of Algebraic Geometry, Noncommutative Algebra, Derived Categories, Homological Algebra, Representation Theory. More specifically, I like to answer questions coming from Noncommutative Algebraic Geometry or Derived Algebraic Geometry.
 
 My Email Id is anirbanbhaduri1905 'at' gmail 'dot' com.
-For more information, attached is my [C.V.](assets/img/Resume.pdf)
+For more information, attached is my C.V.
