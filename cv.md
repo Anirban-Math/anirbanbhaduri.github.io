@@ -4,11 +4,10 @@ title: "CV"
 ---
 
 ## TALKS
-
-*  _On the Derived Category of Projective Line_:
-  [Graduate Colloquium](https://www.jonathanmichaelsmith.com/graduate-colloquium-spring-2023), University of South Carolina, Spring 2023.
-*  _Representation of Quiver Algebra_:
-  [SCAGNT Seminar](https://www.scagnt.org/student_seminar/spring/2022/index.html), University of South Carolina, Spring 2022.
+  *[Graz Algebra & Geometry Seminar](https://imsc.uni-graz.at/alggeo/winter24/)_University of Graz, Fall 2024_.
+  * [AGNES 2024](https://sites.google.com/site/agneshomepage/dartmouth-2024?authuser=0), _Dartmouth College, Fall 2024_.
+  * [Graduate Colloquium](https://www.jonathanmichaelsmith.com/graduate-colloquium-spring-2023), _University of South Carolina, Spring 2023_.
+  * [SCAGNT Seminar](https://www.scagnt.org/student_seminar/spring/2022/index.html), _University of South Carolina, Spring 2022_.
 
 ## ORGANIZATION
 
