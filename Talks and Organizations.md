@@ -10,7 +10,7 @@ title: "Talks and Organizations"
   * [Graduate Colloquium](https://www.jonathanmichaelsmith.com/graduate-colloquium-spring-2023), _University of South Carolina, Spring 2023_.
   * [SCAGNT Seminar](https://www.scagnt.org/student_seminar/spring/2022/index.html), _University of South Carolina, Spring 2022_.
 
-## ORGANIZATION
+## ORGANIZATIONS
 
 * [_Derived and Non-Commutative Enthusiast(D.A.N.C.E.) online Seminar, Spring 2025_](https://danceseminar.github.io/)
 *  [_AMS Special Session on Derived Categories, Arithmetic, and Geometry, JMM 2024_](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title).
