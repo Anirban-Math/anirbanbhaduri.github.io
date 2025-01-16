@@ -2,7 +2,8 @@
 layout: cv
 title: "Talks and Organizations"
 ---
-![My Image](/assets/img/IMG_0307.jpg)
+<img src="/assets/img/IMG_0307.jpg" alt="Sample Image" width="50%" height="50%">
+
 ## TALKS
   * [Derived Obsessed Graduate Students (D.O.G.S)](https://dogs-seminar.github.io/), _Online Seminar, Spring 2025_
   * [Graz Algebra & Geometry Seminar](https://imsc.uni-graz.at/alggeo/winter24/), _University of Graz, Fall 2024_.
