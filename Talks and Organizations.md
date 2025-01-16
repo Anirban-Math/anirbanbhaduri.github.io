@@ -2,10 +2,8 @@
 layout: cv
 title: "Talks and Organizations"
 ---
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/assets/img/IMG_0307.jpg" alt="Image 1" style="width: 10% height: 20%; margin-right: 10px;">
-  <img src="/assets/img/IMG_0307.jpg" alt="Image 2" style="width: 10% height: 20%;">
-</div>
+<img src="/assets/img/IMG_0307.jpg" alt="Sample Image" width="40%" height="25%">
+
 
 
 ## TALKS
