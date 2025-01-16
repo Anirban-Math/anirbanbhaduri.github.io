@@ -2,7 +2,7 @@
 layout: cv
 title: "Talks and Organizations"
 ---
-<img src="/assets/img/IMG_0307.jpg" alt="Sample Image" width="70%" height="25%">
+<img src="/assets/img/IMG_0307.jpg" alt="Sample Image" width="50%" height="15%">
 
 
 
