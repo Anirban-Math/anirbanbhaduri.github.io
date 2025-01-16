@@ -2,7 +2,7 @@
 layout: cv
 title: "Talks and Organizations"
 ---
-<img src="/assets/img/IMG_0307.jpg" alt="Sample Image" width="50%" height="50%">
+<img src="/assets/img/IMG_0307.jpg" alt="Sample Image" width="60%" height="30%">
 
 ## TALKS
   * [Derived Obsessed Graduate Students (D.O.G.S)](https://dogs-seminar.github.io/), _Online Seminar, Spring 2025_
