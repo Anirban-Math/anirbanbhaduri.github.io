@@ -3,8 +3,8 @@ layout: cv
 title: "Talks and Organizations"
 ---
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="/assets/img/IMG_0307.jpg" alt="Image 1" style="width: 45% height: 30%; margin-right: 10px;">
-  <img src="/assets/img/IMG_0307.jpg" alt="Image 2" style="width: 45% height: 30%;">
+  <img src="/assets/img/IMG_0307.jpg" alt="Image 1" style="width: 35% height: 30%; margin-right: 10px;">
+  <img src="/assets/img/IMG_0307.jpg" alt="Image 2" style="width: 35% height: 30%;">
 </div>
 
 
