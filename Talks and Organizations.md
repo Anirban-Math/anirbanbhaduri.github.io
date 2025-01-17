@@ -2,8 +2,6 @@
 layout: cv
 title: "Talks and Organizations"
 ---
-<img src="/assets/img/IMG_0307.jpg" alt="Sample Image" width="800" height="400">
-
 
 
 ## TALKS
