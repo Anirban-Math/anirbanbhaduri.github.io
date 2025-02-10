@@ -6,6 +6,7 @@ title: "Talks and Organizations"
 
 
 ## TALKS
+  * [Syzygies and Mirror Symmetry Virtual Seminar]([https://sites.google.com/umn.edu/smsseminar?usp=sharing](https://sites.google.com/umn.edu/smsseminar/spring-2025?authuser=0)), _Online Seminar, Spring 2025_
   * [Derived Obsessed Graduate Students (D.O.G.S)](https://dogs-seminar.github.io/), _Online Seminar, Spring 2025_
   * [Graz Algebra & Geometry Seminar](https://imsc.uni-graz.at/alggeo/winter24/), _University of Graz, Fall 2024_.
   * [AGNES 2024](https://sites.google.com/site/agneshomepage/dartmouth-2024?authuser=0), _Dartmouth College, Fall 2024_.
