@@ -9,3 +9,6 @@ My research interest lies in the intersection of Algebraic Geometry, Noncommutat
 
 My Email Id is anirbanbhaduri1905 'at' gmail 'dot' com.
 For more information, attached is my [C.V.](assets/img/Resume.pdf)
+
+
+In Spring 2025, I will be co-organizing an online seminar about Noncommutative algebraic Geometry and Derived Categories called [D.A.N.C.E.](https://danceseminar.github.io/). 
