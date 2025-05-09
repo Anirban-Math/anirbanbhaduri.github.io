@@ -6,8 +6,8 @@ title: "Talks and Organizations"
 
 
 ## TALKS
-  *[Graduate Colloquium](https://sites.google.com/view/jonahklein/graduate-colloquium), _University of South Carolina, Spring 2025_.
-  *[Georgia Algebraic Geometry Symposium'25(G.A.G.S)](https://sites.google.com/view/gags2025),_University of Georgia, Spring 20205_.
+  * [Graduate Colloquium](https://sites.google.com/view/jonahklein/graduate-colloquium), _University of South Carolina, Spring 2025_.
+  * [Georgia Algebraic Geometry Symposium'25(G.A.G.S)](https://sites.google.com/view/gags2025),_University of Georgia, Spring 20205_.
   * [Syzygies and Mirror Symmetry Virtual Seminar](https://sites.google.com/umn.edu/smsseminar/spring-2025?authuser=0), _Online Seminar, Spring 2025_.
   * [Derived Obsessed Graduate Students (D.O.G.S)](https://dogs-seminar.github.io/), _Online Seminar, Spring 2025_.
   * [Graz Algebra & Geometry Seminar](https://imsc.uni-graz.at/alggeo/winter24/), _University of Graz, Fall 2024_.
