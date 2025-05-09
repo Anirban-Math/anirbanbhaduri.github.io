@@ -17,5 +17,5 @@ Here is a link to my [Arxiv](https://arxiv.org/search/math?searchtype=author&que
 **In Preperation**
 
 
-* Orlov Spectra for Weighted Projective Stacks, with [Matthew Ballard](https://www.matthewrobertballard.com/).
+* Orlov Spectra for Weighted Projective Lines, with [Matthew Ballard](https://www.matthewrobertballard.com/).
 
