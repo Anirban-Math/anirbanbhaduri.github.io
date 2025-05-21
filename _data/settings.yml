@@ -3,6 +3,7 @@ menu:
 - {name: 'Research', url: '/publications'}
 - {name: 'Teaching', url: '/courses'}
 - {name: 'Talks and Organizations', url: '/Talks and Organizations'}
+- {name: 'Others', url: '/others'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
