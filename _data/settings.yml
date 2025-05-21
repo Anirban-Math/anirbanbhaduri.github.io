@@ -1,7 +1,7 @@
 menu:
 
-- {name: 'Publications', url: '/publications'}
-- {name: 'Courses', url: '/courses'}
+- {name: 'Research', url: '/publications'}
+- {name: 'Teaching', url: '/courses'}
 - {name: 'Talks and Organizations', url: '/Talks and Organizations'}
 
 people:
