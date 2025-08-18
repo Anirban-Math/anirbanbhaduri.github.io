@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hello! I am Anirban Bhaduri(অনির্বাণ ভাদুড়ী). I am a fifth year Ph.D. student at University of South Carolina, Columbia, South Carolina, U.S.A. My Supervisor is [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta, Kolkata, West Bengal, India.
+Hello! I am Anirban Bhaduri(অনির্বাণ ভাদুড়ী). I am a fifth year Ph.D. student at University of South Carolina, Columbia, U.S.A. My Supervisor is [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta, Kolkata, West Bengal, India.
 
 My research interest lie in the intersection of Algebraic Geometry, Noncommutative Algebra, Derived Categories, Homological Algebra, Representation Theory. More specifically, I like to answer questions coming from Noncommutative Algebraic Geometry or Derived Algebraic Geometry.
 
