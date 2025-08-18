@@ -16,7 +16,7 @@ title: "Talks and Organizations"
   * [SCAGNT Seminar](https://www.scagnt.org/student_seminar/spring/2022/index.html), _University of South Carolina, Spring 2022_.
 
 ## Seminars and Sectionals Organized
-* [Toric Geometry in Mirror Symmetry: Reading Seminar](https://www.pksusc.com/reading-seminar)
+* [Toric Geometry in Mirror Symmetry: Reading Seminar](https://www.pksusc.com/others/reading-seminar)
 * [_Derived and Non-Commutative Enthusiast(D.A.N.C.E.) online Seminar, Spring 2025_](https://danceseminar.github.io/)
 *  [_AMS Special Session on Derived Categories, Arithmetic, and Geometry, JMM 2024_](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title).
 *  [_AGCANT Student Seminar, Department of Mathematics, University of South Carolina 2023-24_](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/beyond_classroom/colloquia_and_seminars/agcant/index.php).
