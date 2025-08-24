@@ -6,7 +6,7 @@ title: "Talks and Organizations"
 
 
 ## Presentations
-  * [AMS Special Session Homological and categorical methods in commutative algebra](https://www.ams.org/meetings/sectional/2328_program_ss11.html#title)\\
+  * [AMS Special Session Homological and categorical methods in commutative algebra](https://www.ams.org/meetings/sectional/2328_program_ss11.html#title)<br>
      Fall 2025 Southeastern Sectional Meeting, _Tulane University, Fall 2025_.
   * [Graduate Colloquium](https://sites.google.com/view/jonahklein/graduate-colloquium), _University of South Carolina, Spring 2025_.
   * [Georgia Algebraic Geometry Symposium'25(G.A.G.S)](https://sites.google.com/view/gags2025),_University of Georgia, Spring 2025_.
