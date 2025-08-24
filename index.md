@@ -11,4 +11,4 @@ My email is anirbanbhaduri1905 'at' gmail 'dot' com.
 For more information, here is my [C.V.](assets/img/Resume.pdf)
 
 
-Since Spring 2025, I will be co-organizing an online seminar about Noncommutative algebraic Geometry and Derived Categories called [D.A.N.C.E.](https://danceseminar.github.io/). In Summer 2025, I am also co-organizing a reading seminar on [Toric Geometry and Mirror Symmetry](https://www.pksusc.com/reading-seminar). 
+Since Spring 2025, I am co-organizing an online seminar called Noncommutative algebraic Geometry and Derived Categories called [D.A.N.C.E.](https://danceseminar.github.io/). In Summer 2025, I am also co-organizing a reading seminar on [Toric Geometry and Mirror Symmetry](https://www.pksusc.com/reading-seminar). 
