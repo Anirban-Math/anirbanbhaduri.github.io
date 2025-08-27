@@ -6,7 +6,7 @@ title: "Talks and Organizations"
 
 
 ## Presentations
-  *[Commutative Algebra & Algebraic Geometry Seminar](https://sites.google.com/view/umncaagseminar/spring-2025?authuser=0), _University of Minnesota, Fall 2025_.
+  * [Commutative Algebra & Algebraic Geometry Seminar](https://sites.google.com/view/umncaagseminar/spring-2025?authuser=0), _University of Minnesota, Fall 2025_.
   * [AMS Special Session Homological and categorical methods in commutative algebra](https://www.ams.org/meetings/sectional/2328_program_ss11.html#title)<br>
      Fall 2025 Southeastern Sectional Meeting, _Tulane University, Fall 2025_.
   * Hawai'i Algebra Seminar, _University of Hawai'i at Manoa, Fall 2025_.
