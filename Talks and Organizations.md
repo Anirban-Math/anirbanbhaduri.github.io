@@ -6,18 +6,18 @@ title: "Talks and Organizations"
 
 
 ## Presentations
-  * [Commutative Algebra & Algebraic Geometry Seminar](https://sites.google.com/view/umncaagseminar/spring-2025?authuser=0), _University of Minnesota, Fall 2025_.
+  * [Commutative Algebra & Algebraic Geometry Seminar](https://sites.google.com/view/umncaagseminar/spring-2025?authuser=0)<br> _University of Minnesota, Fall 2025_.
   * [AMS Special Session Homological and categorical methods in commutative algebra](https://www.ams.org/meetings/sectional/2328_program_ss11.html#title)<br>
      Fall 2025 Southeastern Sectional Meeting, _Tulane University, Fall 2025_.
-  * Hawai'i Algebra Seminar, _University of Hawai'i at Manoa, Fall 2025_.
-  * [Graduate Colloquium](https://sites.google.com/view/jonahklein/graduate-colloquium), _University of South Carolina, Spring 2025_.
-  * [Georgia Algebraic Geometry Symposium'25(G.A.G.S)](https://sites.google.com/view/gags2025),_University of Georgia, Spring 2025_.
-  * [Syzygies and Mirror Symmetry Virtual Seminar](https://sites.google.com/umn.edu/smsseminar/spring-2025?authuser=0), _Online Seminar, Spring 2025_.
-  * [Derived Obsessed Graduate Students (D.O.G.S)](https://dogs-seminar.github.io/), _Online Seminar, Spring 2025_.
-  * [Graz Algebra & Geometry Seminar](https://imsc.uni-graz.at/alggeo/winter24/), _University of Graz, Fall 2024_.
-  * [AGNES 2024](https://sites.google.com/site/agneshomepage/dartmouth-2024?authuser=0), _Dartmouth College, Fall 2024_.
-  * [Graduate Colloquium](https://www.jonathanmichaelsmith.com/graduate-colloquium-spring-2023), _University of South Carolina, Spring 2023_.
-  * [SCAGNT Seminar](https://www.scagnt.org/student_seminar/spring/2022/index.html), _University of South Carolina, Spring 2022_.
+  * Hawai'i Algebra Seminar<br> _University of Hawai'i at Manoa, Fall 2025_.
+  * [Graduate Colloquium](https://sites.google.com/view/jonahklein/graduate-colloquium)<br> _University of South Carolina, Spring 2025_.
+  * [Georgia Algebraic Geometry Symposium'25(G.A.G.S)](https://sites.google.com/view/gags2025)<br>_University of Georgia, Spring 2025_.
+  * [Syzygies and Mirror Symmetry Virtual Seminar](https://sites.google.com/umn.edu/smsseminar/spring-2025?authuser=0)<br> _Online Seminar, Spring 2025_.
+  * [Derived Obsessed Graduate Students (D.O.G.S)](https://dogs-seminar.github.io/)<br> _Online Seminar, Spring 2025_.
+  * [Graz Algebra & Geometry Seminar](https://imsc.uni-graz.at/alggeo/winter24/)<br> _University of Graz, Fall 2024_.
+  * [AGNES 2024](https://sites.google.com/site/agneshomepage/dartmouth-2024?authuser=0)<br> _Dartmouth College, Fall 2024_.
+  * [Graduate Colloquium](https://www.jonathanmichaelsmith.com/graduate-colloquium-spring-2023)<br> _University of South Carolina, Spring 2023_.
+  * [SCAGNT Seminar](https://www.scagnt.org/student_seminar/spring/2022/index.html)<br> _University of South Carolina, Spring 2022_.
 
 ## Seminars and Sectionals Organized
 * [Toric Geometry in Mirror Symmetry: Reading Seminar](https://www.pksusc.com/others/reading-seminar](https://www.pksusc.com/others/reading-seminar))
