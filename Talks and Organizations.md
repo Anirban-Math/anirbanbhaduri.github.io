@@ -20,6 +20,7 @@ title: "Talks and Organizations"
   * [SCAGNT Seminar](https://www.scagnt.org/student_seminar/spring/2022/index.html)<br> _University of South Carolina, Spring 2022_.
 
 ## Seminars and Sectionals Organized
+* [AMS 2026 Spring Eastern Sectional on Derived Categories, Stability Conditions, and Homological Mirror Symmetry](https://www.ams.org/meetings/sectional/2331_program_Unsched.html)
 * [Toric Geometry in Mirror Symmetry: Reading Seminar](https://www.pksusc.com/others/reading-seminar](https://www.pksusc.com/others/reading-seminar))
 * [_Derived and Non-Commutative Enthusiast(D.A.N.C.E.) online Seminar, Spring 2025_](https://danceseminar.github.io/)
 *  [_AMS Special Session on Derived Categories, Arithmetic, and Geometry, JMM 2024_](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title).
