@@ -12,7 +12,8 @@ Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=
 
 
 *  Dimension Theory of Noncommutative Curves, with [Antonios-Alexandros Robotis](https://aarobotis.github.io/) and [Isaac Goldberg](https://math.cornell.edu/isaac-goldberg). [Arxiv Link](https://arxiv.org/abs/2410.18061)
-* An Explicit Derived Mckay Correspondance For Some Complex Reflection Group of Rank Two, with [Yael Davidov](https://yaeldavidov.github.io/), [Eleanore Faber](https://imsc.uni-graz.at/faber/index.html), [Katrina Honigs](https://www.sfu.ca/~khonigs/), [Peter McDonald](https://www.math.utah.edu/~mcdonald/), [C. Eric Overton-Walker](https://locallyringed.space/), AND [Dylan Spence](https://dkspence952.github.io/). [Arxiv Link](https://arxiv.org/abs/2412.17937)
+* An Explicit Derived Mckay Correspondance For Some Complex Reflection Group of Rank Two, with [Yael Davidov](https://yaeldavidov.github.io/), [Eleanore Faber](https://imsc.uni-graz.at/faber/index.html), [Katrina Honigs](https://www.sfu.ca/~khonigs/), [Peter McDonald](https://www.math.utah.edu/~mcdonald/), [C. Eric Overton-Walker](https://locallyringed.space/), AND [Dylan Spence](https://dkspence952.github.io/). (_To appear in Advances in Mathematics_) [Arxiv Link](https://arxiv.org/abs/2412.17937)
+* Nonexistence of singly compactly generated t-structures for schemes, with [Timothy De Deyn](https://tdedeyn.github.io/), [Michal Hrbek](https://sites.google.com/view/michalhrbek/home), [Pat Lank](https://lankp.github.io/), [Kabeer Manali-Rahul](https://kabeermr.github.io/). [Arxiv Link](https://arxiv.org/abs/2511.01622)
 
 **In Preparation**
 
