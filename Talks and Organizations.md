@@ -33,7 +33,11 @@ title: "Talks and Organizations"
 
 ## Seminars and Sectionals Organized
 * [AMS 2026 Spring Eastern Sectional on Derived Categories, Stability Conditions, and Homological Mirror Symmetry](https://www.ams.org/meetings/sectional/2331_program_Unsched.html)
+  
 * [Toric Geometry in Mirror Symmetry: Reading Seminar](https://www.pksusc.com/others/reading-seminar](https://www.pksusc.com/others/reading-seminar))
+  
 * [_Derived and Non-Commutative Enthusiast(D.A.N.C.E.) online Seminar, Spring 2025-Present_](https://danceseminar.github.io/)
+  
 *  [_AMS Special Session on Derived Categories, Arithmetic, and Geometry, JMM 2024_](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title).
+  
 *  [_AGCANT Student Seminar, Department of Mathematics, University of South Carolina 2023-24_](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/beyond_classroom/colloquia_and_seminars/agcant/index.php).
