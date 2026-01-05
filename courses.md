@@ -12,14 +12,22 @@ title: "Courses"
 
 
 ### Instructor of Record:
+* MATH 115: Precalculus  (Spring 2026, Fall 2023, Spring 2022)
+  
 * MATH 111I: Intensive Basic College Mathematics (Fall 2025)
+  
 * MATH 151: Calculus I Workshop (Spring 2025)
+  
 * MATH 152: Calculus II Workshop (Fall 2024)
+  
 * MATH 170: Finite Mathematics   (Spring 2024)
-* MATH 115: Precalculus  (Fall 2023, Spring 2022)
+
 * MATH 142: Calculus II (Summer 2023)
+  
 * MATH 122: Business Calculus (Spring 2023)
+  
 * MATH 111: College Algebra (Fall 2022)
+  
 * MATH 141: Calculus I (Summer 2022)
 
   
