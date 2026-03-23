@@ -15,7 +15,7 @@ My email is anirbanbhaduri1905 'at' gmail 'dot' com.
 
 Since Spring 2025, I am co-organizing an online seminar called Noncommutative Algebraic Geometry and Derived Categories called [D.A.N.C.E.](https://danceseminar.github.io/).  
 
-[C.V.](assets/img/CV_Bhaduri_2.5.26.pdf)
+[C.V.](assets/img/CV_3.23.26.pdf)
 
 [Teaching Philosophy](assets/img/Teaching_Statement_Bhaduri.pdf)
 
