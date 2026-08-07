@@ -36,7 +36,7 @@ title: "Talks and Organizations"
   
 * [Toric Geometry in Mirror Symmetry: Reading Seminar](https://www.pksusc.com/others/reading-seminar](https://www.pksusc.com/others/reading-seminar))
   
-* [_Derived and Non-Commutative Enthusiast(D.A.N.C.E.) online Seminar, Spring 2025-Present_](https://danceseminar.github.io/)
+* [_Derived and Non-Commutative Enthusiast(D.A.N.C.E.) online Seminar, Spring 2025-Spring 2026_](https://danceseminar.github.io/)
   
 *  [_AMS Special Session on Derived Categories, Arithmetic, and Geometry, JMM 2024_](https://jointmathematicsmeetings.org/meetings/national/jmm2024/2300_program_ss105.html#title).
   
