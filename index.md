@@ -13,7 +13,7 @@ Hello! I am Anirban Bhaduri. I am a fifth year Ph.D. student at University of So
 My research focuses on Derived Categories in the context of Algebraic Geometry and Representation Theory of Finite Dimensional Algebra.
 My email is anirbanbhaduri1905 'at' gmail 'dot' com.
 
-<!--Since Spring 2025, I am co-organizing an online seminar called Noncommutative Algebraic Geometry and Derived Categories called [D.A.N.C.E.](https://danceseminar.github.io/)-->.  
+<!--Since Spring 2025, I am co-organizing an online seminar called Noncommutative Algebraic Geometry and Derived Categories called [D.A.N.C.E.](https://danceseminar.github.io/)-->  
 
 [C.V.](assets/img/CV_3.23.26.pdf)
 
