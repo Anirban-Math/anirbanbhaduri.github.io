@@ -2,7 +2,7 @@
 layout: publications
 title: "Publications"
 ---
-My research primarily focuses on Derived Categories, Algebraic Geometry, Representation Theory of quivers. For my current research, I have studied categorical complexities of derived categories of (noncommutative) curves such as weighted projective line by computing invariants like Rouquier Dimension, Generation Time and Orlov Spectra. Most of these computational problems heavily use techniques from Homological and Commutative Algebra. Lately, I have been interested in learning topics like Differential Graded Algebras and Homological Mirror Symmetry.
+My research primarily focuses on derived categories, algebraic geometry, representation theory of quivers. For my current research, I have studied categorical complexities of derived categories of (noncommutative) curves such as weighted projective line by computing invariants like Rouquier Dimension, Generation Time and Orlov Spectra. Most of these computational problems heavily use techniques from Homological and Commutative Algebra. Lately, I have been interested in learning topics like Differential Graded Algebras and Homological Mirror Symmetry.
 Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=g0sp4GcAAAAJ&hl=en).
 
 **Published**
