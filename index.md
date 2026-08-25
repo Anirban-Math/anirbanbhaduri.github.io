@@ -3,11 +3,7 @@ layout: home
 title: "Home"
 ---
 
-
-
-"কোনও বিশেষ আদর্শের জন্য একজন মৃত্যুবরণ করতে পারেন। কিন্তু সেই আদর্শের মৃত্যু হয় না। সেই আদর্শ একজনের মৃত্যুর পর হাজার জনের মধ্যে ছড়িয়ে যায়।" --- নেতাজি সুভাষচন্দ্র বসু
-
-"One individual may die for an idea, but that idea will, after his death, incarnate itself in a thousand lives"--- Netaji Subhas Chandra Bose.
+"The true laboratory is the mind, where behind illusions we uncover the laws of truth."--- Acharya Jagadish Chandra Bose.
 
 Hello! I am Anirban Bhaduri. I am a fifth year Ph.D. student at University of South Carolina, Columbia, U.S.A. My Supervisor is [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta, Kolkata, West Bengal, India.
 My research focuses on Derived Categories in the context of Algebraic Geometry and Representation Theory of Finite Dimensional Algebras.
