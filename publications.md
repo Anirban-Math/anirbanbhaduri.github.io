@@ -2,7 +2,8 @@
 layout: publications
 title: "Publications"
 ---
-Algebraic geometry studies shapes defined by polynomial equations — curves, surfaces, and their higher-dimensional analogues — often by translating them into algebraic data that's easier to compute with. My work measures how "complicated" these translated objects are: specifically, how many simple building blocks it takes to assemble the full algebraic structure of a given geometric space.\\
+Algebraic geometry studies shapes defined by polynomial equations — curves, surfaces, and their higher-dimensional analogues — often by translating them into algebraic data that's easier to compute with. My work measures how "complicated" these translated objects are: specifically, how many simple building blocks it takes to assemble the full algebraic structure of a given geometric space.
+
 My research primarily focuses on derived categories studied in context of algebraic geometry and representation theory. Presently I focus on the computational aspect of derived categories of (noncommutative) curves such as weighted projective line and Dynkin/extended Dynkin quiver. Computing invariants like Rouquier Dimension, Generation Time and Orlov Spectra determine the complexity of a category. Most of my computational problems heavily use techniques from Homological and Commutative Algebra.
 Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=g0sp4GcAAAAJ&hl=en).
 
