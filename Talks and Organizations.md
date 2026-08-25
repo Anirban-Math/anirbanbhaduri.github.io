@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: "Talks and Organizations"
+title: "Talks"
 ---
 
 
