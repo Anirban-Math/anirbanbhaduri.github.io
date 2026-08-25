@@ -13,6 +13,7 @@ My research focuses are algebraic geometry, representation theory and noncommuta
 - Complexity of triangulated categories via dimensions, generation, and Orlov spectrum;
 - Non-commutative algebraic geometry and differential graded algebra
 - ....
+
 In recent times, I have grown interest in formalization in LEAN. In July 2026, I attended a summer school on formalization in LEAN at [ICARM](https://icarm.io/events/2026/summer-school-on-formalization-of-mathematics/). In Spring 2027, I will be attending [AxIOM](https://www.slmath.org/axiom/412#overview_axiom) "Building the Mathematical Library of the Future" at SLMath.
 
 My email is anirbanbhaduri1905 'at' gmail 'dot' com.
