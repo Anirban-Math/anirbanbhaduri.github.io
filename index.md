@@ -5,7 +5,8 @@ title: "Home"
 
 "The true laboratory is the mind, where behind illusions we uncover the laws of truth."--- Acharya Jagadish Chandra Bose.
 
-Hello! I am Anirban Bhaduri. I am a fifth year Ph.D. student at University of South Carolina, Columbia, U.S.A. My Supervisor is [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta, Kolkata, West Bengal, India.
+Hello! I am Anirban Bhaduri. I received my Ph.D. in mathematics at University of South Carolina in 2026 under the supervision of [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta.
+
 My research focuses on Derived Categories in the context of Algebraic Geometry and Representation Theory of Finite Dimensional Algebras.
 My email is anirbanbhaduri1905 'at' gmail 'dot' com.
 
