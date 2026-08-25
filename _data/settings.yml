@@ -2,7 +2,7 @@ menu:
 
 - {name: 'Research', url: '/publications'}
 - {name: 'Teaching', url: '/courses'}
-- {name: 'Talks and Organizations', url: '/Talks and Organizations'}
+- {name: 'Talks and Organizations', url: '/Talks'}
 
 
 people:
