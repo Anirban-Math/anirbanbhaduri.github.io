@@ -10,7 +10,7 @@ title: "Home"
 "One individual may die for an idea, but that idea will, after his death, incarnate itself in a thousand lives"--- Netaji Subhas Chandra Bose.
 
 Hello! I am Anirban Bhaduri. I am a fifth year Ph.D. student at University of South Carolina, Columbia, U.S.A. My Supervisor is [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta, Kolkata, West Bengal, India.
-My research focuses on Derived Categories in the context of Algebraic Geometry and Representation Theory of Finite Dimensional Algebra.
+My research focuses on Derived Categories in the context of Algebraic Geometry and Representation Theory of Finite Dimensional Algebras.
 My email is anirbanbhaduri1905 'at' gmail 'dot' com.
 
 <!--Since Spring 2025, I am co-organizing an online seminar called Noncommutative Algebraic Geometry and Derived Categories called [D.A.N.C.E.](https://danceseminar.github.io/)-->  
