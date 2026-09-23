@@ -12,6 +12,9 @@ title: "Courses"
 
 
 ### Instructor of Record:
+_University of Cincinnati_
+*MATH 1021-011, 013: College Algebra (Fall 2026)
+_University of South Carolina_
 * MATH 115: Precalculus  (Spring 2026, Fall 2023, Spring 2022)
   
 * MATH 111I: Intensive Basic College Mathematics (Fall 2025)
