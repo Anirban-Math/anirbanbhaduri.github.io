@@ -15,7 +15,7 @@ title: "Courses"
 
 _University of Cincinnati_
 
-*MATH 1021-011, 013: College Algebra (Fall 2026)
+* MATH 1021-011, 013: College Algebra (Fall 2026)
 
 _University of South Carolina_
 
