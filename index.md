@@ -5,7 +5,7 @@ title: "Home"
 
 "The true laboratory is the mind, where behind illusions we uncover the laws of truth."--- Acharya Jagadish Chandra Bose.
 
-Hello! I am Anirban Bhaduri. I received my Ph.D. in mathematics at University of South Carolina in 2026 under the supervision of [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta. Here is my [C.V.](assets/img/CV_Anirban_Bhaduri.pdf).
+Hello! I am Anirban Bhaduri. I am a Visiting Assistant Professor of Mathematics at [University of Cincinnati](https://www.artsci.uc.edu/natural-sciences/math/faculty-staff-students.html#VisitingFaculty), Ohio. I received my Ph.D. in mathematics at [University of South Carolina](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/index.php) in 2026 under the supervision of [Matthew Ballard](https://www.matthewrobertballard.com/). Before this, I obtained my B.Sc. Honours and M.Sc. degree from University of Calcutta. Here is my [C.V.](assets/img/CV_Anirban_Bhaduri.pdf).
 
 My research focuses are algebraic geometry, representation theory and noncommutative algebras . I am interested in questions that relate to:
 - Representation theory of quivers and path algebras;
