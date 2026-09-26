@@ -5,7 +5,7 @@ title: "Courses"
 
 
 
- I have been a Graduate Teaching Assistant for Spring 2021 and Fall 2021 and a Graduate Instructional Assistant from Spring 2022 till now at University of South Carolina. I discuss more about my teaching philosophy [here](assets/img/Teaching_Statement_Bhaduri.pdf). I have also been a part of Peer Mentoring Program as a mentor from Spring 2023- Spring 2024 at University of South Carolina. Below are the courses I have taught so far:
+ I have been a Graduate Teaching Assistant for Spring 2021 and Fall 2021 and a Graduate Instructional Assistant from Spring 2022 till now at University of South Carolina. I discuss more about my teaching philosophy [here](assets/Teaching_Statement.pdf). I have also been a part of Peer Mentoring Program as a mentor from Spring 2023- Spring 2024 at University of South Carolina. Below are the courses I have taught so far:
  
 ### Mentoring:
  * [Peer Mentoring Program](https://sc.edu/study/colleges_schools/artsandsciences/mathematics/beyond_classroom/pmp/past-mentors.php) (Spring 2023-Spring 2024)
@@ -19,9 +19,9 @@ _University of Cincinnati_
 
 _University of South Carolina_
 
-* MATH 115: Precalculus  (Spring 2026, Fall 2023, Spring 2022)
+* MATH 115: Precalculus  (Spring 2026, Fall 2023, Spring 2022) ([Evaluation]())
   
-* MATH 111I: Intensive Basic College Mathematics (Fall 2025)
+* MATH 111I: Intensive Basic College Mathematics (Fall 2025) ([Evaluation]())
   
 * MATH 151: Calculus I Workshop (Spring 2025)
   
