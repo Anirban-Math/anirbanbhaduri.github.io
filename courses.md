@@ -19,9 +19,9 @@ _University of Cincinnati_
 
 _University of South Carolina_
 
-* MATH 115: Precalculus  (Spring 2026, Fall 2023, Spring 2022) [Evaluation](assets/Spring_2026_Student_Evaluation.pdf)
+* MATH 115: Precalculus  (Spring 2026, Fall 2023, Spring 2022) [Evaluations](assets/Spring_2026_Student_Evaluation.pdf)
   
-* MATH 111I: Intensive Basic College Mathematics (Fall 2025) [Evaluation](assets/Fall_2025_Student_Evaluations.pdf)
+* MATH 111I: Intensive Basic College Mathematics (Fall 2025) [Evaluations](assets/Fall_2025_Student_Evaluations.pdf)
   
 * MATH 151: Calculus I Workshop (Spring 2025)
   
