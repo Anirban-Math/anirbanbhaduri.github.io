@@ -6,6 +6,8 @@ title: "Talks and organization"
 
 
 ## Presentations
+  * [Algebra-Topology Seminar](https://sites.google.com/view/prashanthsridhar/algebra-topology-seminar)<br> _University of Alabama, Fall 2026_.
+    
   * [Auburn Algebra Seminar](https://webhome.auburn.edu/~mkb0096/Spring2026Seminar.html)<br> _Auburn University, Spring 2026_.
     
   * [Commutative Algebra & Algebraic Geometry Seminar](https://sites.google.com/view/umncaagseminar/spring-2025?authuser=0)<br> _University of Minnesota, Fall 2025_.
