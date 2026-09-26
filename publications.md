@@ -7,6 +7,8 @@ Algebraic geometry studies shapes defined by polynomial equations — curves, su
 My research primarily focuses on derived categories studied in context of algebraic geometry and representation theory. Presently I focus on the computational aspect of derived categories of (noncommutative) curves such as weighted projective line and Dynkin/extended Dynkin quivers. Computing invariants like Rouquier Dimension, Generation Time and Orlov Spectra determine the complexity of a category. Most of my computational problems heavily use techniques from Homological and Commutative Algebra.
 Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=g0sp4GcAAAAJ&hl=en).
 
+* [Research Statement](assets/Research_Statements_2026.pdf)
+
 **Published**
 * An explicit derived McKay correspondence for some complex reflection groups of rank two, with [Yael Davidov](https://yaeldavidov.github.io/), [Eleonore Faber](https://imsc.uni-graz.at/faber/index.html), [Katrina Honigs](https://www.sfu.ca/~khonigs/), [Peter McDonald](https://www.math.utah.edu/~mcdonald/), [C. Eric Overton-Walker](https://locallyringed.space/), AND [Dylan Spence](https://dkspence952.github.io/), _Advances in Mathematics_. [Arxiv Link](https://arxiv.org/abs/2412.17937), [Journal Link](https://www.sciencedirect.com/science/article/pii/S0001870826000162) (2026)
 
