@@ -27,3 +27,5 @@ Here is a link to my [Google Scholar](https://scholar.google.com/citations?user=
 
 * Orlov Spectra for Weighted Projective Lines, with [Matthew Ballard](https://www.matthewrobertballard.com/).
 
+* Summand Minimal Generation in Derived Categories, with [Matthew Ballard](https://www.matthewrobertballard.com/).
+
